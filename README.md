@@ -1,2 +1,8 @@
-# TT-Project-S6
-TripleTen bootcamp - Data Analyst - Sprint 6 - Integrated data analysis project 1
+# TT-S6-Integrated_Project
+Integrated data analysis project  - TripleTen bootcamp - Data Analyst - Sprint 6
+
+## Objeto
+Se analiza un dataset con datos de ventas de videojuegos mundial. El proyecto analiza:
+- Patrones que determinen si un juego tiene éxito o no.  
+- Detectar proyectos prometedores.  
+- Planificar campañas publicitarias.  
